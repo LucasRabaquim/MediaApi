@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "8TgGlBsnCpf0zMSM38V20XJJtiuZMxy5d5xzxLAUE0Y=",
+  "Source": "MediaApi",
+  "BasePath": "_content/MediaApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
